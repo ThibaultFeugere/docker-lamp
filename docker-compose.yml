@@ -30,6 +30,6 @@ services:
     ports:
       - 8000:80
     environment:
-      MYSQL_USER: thibault
+      MYSQL_USER: test
       MYSQL_ROOT_PASSWORD: root
       MYSQL_PASSWORD: root
