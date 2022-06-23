@@ -4,7 +4,7 @@ Are you tired of having dozens of php versions?
 
 This little Dockerfile and docker-compose should please you
 
-## How it work
+## How it works
 
 You just need to clone this two files :
 
