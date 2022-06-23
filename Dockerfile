@@ -1,4 +1,4 @@
-FROM php:7.4-apache
+FROM php:8.0.14-apache
 RUN apt-get update && apt-get upgrade -y
 RUN docker-php-ext-install mysqli
 EXPOSE 80
