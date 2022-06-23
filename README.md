@@ -26,3 +26,7 @@ Docker-compose is the orchestrator of three services :
 - web (with PHP)
 - db (database with mysql:8.0)
 - PhpMyAdmin 
+
+## Next step
+
+TODO : dissociate PHP and Apache.
